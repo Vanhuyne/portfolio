@@ -15,7 +15,7 @@ const Resume: React.FC = () => {
       </div>
       <div className="w-full h-[1000px]">
         <object
-          data="/resume.pdf"
+          data="/resume-1.pdf"
           type="application/pdf"
           width="100%"
           height="100%"
