@@ -61,7 +61,7 @@ export const Home: React.FC = () => {
             className="absolute inset-0 w-full h-full object-cover rounded-full border-2 border-stroke"
           />
           <div className="absolute top-0 right-0 -mr-4 -mt-4 text-5xl text-tertiary">++</div>
-          <div className="absolute bottom-0 left-0 -ml-6 -mb-6 text-5xl text-tertiary">//</div>
+          {/* <div className="absolute bottom-0 left-0 -ml-6 -mb-6 text-5xl text-tertiary">//</div> */}
         </div>
       </div>
     </div>
