@@ -15,7 +15,7 @@ function App() {
       <div className="flex-grow ml-20 overflow-auto">
         <main className="h-full">
           <Routes>
-            <Route path="/" element={<Home />} />
+            <Route path="/portfolio" element={<Home />} />
             <Route path="/projects" element={<Project />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/resume" element={<Resume />} />
